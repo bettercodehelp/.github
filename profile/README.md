@@ -1,0 +1,3 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+BetterCode.;Trying+to+make+your+work+easier.;Check+our+repos;And+make+sure+to+leave+a+star!)](https://git.io/typing-svg)
+
+Currently Working on README.md...
